@@ -1,2 +1,2 @@
 # nps
-net-promoter-score
+customer-experience
